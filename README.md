@@ -52,9 +52,8 @@ print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-<img width="515" height="646" alt="image" src="https://github.com/user-attachments/assets/2e635c42-d083-4741-b4ce-b87298c56557" />
 
-<img width="569" height="640" alt="image" src="https://github.com/user-attachments/assets/c8ec1e1d-88b9-4c2e-a573-d08cd44e9d35" />
+![IMG-20260211-WA0004](https://github.com/user-attachments/assets/1782cf74-58b0-4072-9cdc-65b0429aca23)
 
 
 # Output
